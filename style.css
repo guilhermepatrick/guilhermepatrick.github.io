@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+    font-family: 'Antic Slab';
+}
+#perfil{
+    text-align: center;
+}
+#fotoPerfil{
+border-radius: 100px;
+box-shadow: 0px 0px 0px 3px rgba(0, 0, 0, 0.171);
+width: 170px;
+}
+h1{
+    font-family: fantasy;
+    text-decoration: underline;
+}
